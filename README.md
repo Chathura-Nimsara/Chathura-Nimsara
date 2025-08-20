@@ -28,7 +28,7 @@ I am a passionate IT undergraduate with a strong interest in **software developm
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nextjs,cs,html,css" />
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,java,js,react,nextjs,cs,html,css,pytorch,sklearn,flask,unrealengine,mongodb,mysql,vscode,git,github,figma,pr" />
+  <img src="https://skillicons.dev/icons?i=pytorch,sklearn,flask,unrealengine,mongodb,mysql,vscode,git,github,figma,pr" />
 </p>
 
 ---
