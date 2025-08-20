@@ -92,6 +92,5 @@ I enjoy building impactful projects, collaborating on innovative solutions, and 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/chathura-nimsara)  
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/chathura-nimsara)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99wakcnk@gmail.com)  
-
 ---
 ⭐️ *“Passionate about building, teaching, and innovating with technology.”*
