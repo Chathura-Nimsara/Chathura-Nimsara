@@ -7,12 +7,11 @@
 </h1>
 
 ---
-[cite_start]🎓 Final-year **BSc (Hons) Information Technology** undergraduate at the **University of Moratuwa** [cite: 48, 53] 💻 Aspiring **Software Engineer** | 📊 **Machine Learning Enthusiast** | [cite_start]📚 **Mathematics Tutor** [cite: 53] 
-![Profile Views](https://komarev.com/ghpvc/?username=Chathura-Nimsara&label=Profile%20Views&color=0e75b6&style=flat)
+🎓 Final-year **BSc (Hons) Information Technology** undergraduate at the **University of Moratuwa** 💻 Aspiring **Software Engineer** | 📊 **Machine Learning Enthusiast** | 📚 **Mathematics Tutor** ![Profile Views](https://komarev.com/ghpvc/?username=Chathura-Nimsara&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 ## 🚀 About Me  
-[cite_start]I am a final-year IT undergraduate at the University of Moratuwa with experience as an Advanced Level Combined Mathematics teacher[cite: 78]. [cite_start]I have strong analytical and problem-solving skills, a passion for technology and education, and am seeking an opportunity to apply my technical and teaching experience in a dynamic and growth-oriented environment[cite: 79]. 
+I am a final-year IT undergraduate at the University of Moratuwa with experience as an Advanced Level Combined Mathematics teacher. I have strong analytical and problem-solving skills, a passion for technology and education, and am seeking an opportunity to apply my technical and teaching experience in a dynamic and growth-oriented environment. 
 
 I enjoy building impactful projects, collaborating on innovative solutions, and continuously learning to stay at the forefront of technology. 
 
@@ -42,19 +41,16 @@ I enjoy building impactful projects, collaborating on innovative solutions, and 
 ---
 ## 📂 Featured Projects  
 
-[cite_start]🔹 **Project Management System (SaaS)** [cite: 91, 92] 
-[cite_start]A multi-tenant project management platform with features for task assignment, progress tracking, and user role-based access[cite: 92, 93]. [cite_start]*Tech:* ReactJS, ASP.NET Core, MSSQL [cite: 94] 
+🔹 **Project Management System (SaaS)** A multi-tenant project management platform with features for task assignment, progress tracking, and user role-based access. *Tech:* ReactJS, ASP.NET Core, MSSQL 
 
-[cite_start]🔹 **Automatic Cleaning Robot** [cite: 95] 
-[cite_start]A cost-effective robot that cleans both horizontal and vertical surfaces with automatic/manual control modes[cite: 96]. [cite_start]*Tech:* C Programming, Embedded Systems [cite: 98] 
+🔹 **Automatic Cleaning Robot** A cost-effective robot that cleans both horizontal and vertical surfaces with automatic/manual control modes. *Tech:* C Programming, Embedded Systems 
 
-[cite_start]🔹 **Personalized Restaurant Recommendation System** [cite: 99] 
-[cite_start]A machine learning-based system to provide restaurant suggestions using sentiment analysis, price fairness, and location[cite: 100]. [cite_start]*Tech:* Python, PyTorch, Scikit-learn, TF-IDF, VADER, Flask [cite: 102] 
+🔹 **Personalized Restaurant Recommendation System** A machine learning-based system to provide restaurant suggestions using sentiment analysis, price fairness, and location. *Tech:* Python, PyTorch, Scikit-learn, TF-IDF, VADER, Flask 
 
 ---
 ## 🎓 Education  
-- [cite_start]🎓 **BSc (Hons) in Information Technology** – University of Moratuwa (2021 – Present) [cite: 48, 104, 105] 
-- [cite_start]📘 **GCE A/L (2019):** Combined Maths (A), Physics (B), Chemistry (B) [cite: 50, 51, 107, 108]
+- 🎓 **BSc (Hons) in Information Technology** – University of Moratuwa (2021 – Present) 
+- 📘 **GCE A/L (2019):** Combined Maths (A), Physics (B), Chemistry (B)
 - 📗 **GCE O/L (2015):** 6As & 3Bs 
 
 ---
@@ -85,6 +81,13 @@ I enjoy building impactful projects, collaborating on innovative solutions, and 
 ---
 ## 🤝 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chathura-karunarathna) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chathura-Nimsara) [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/chathura.wanniarachchikankanamge) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chathura_nimsara_karunarathna/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99wakcnk@gmail.com)
+<div align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chathura-karunarathna) 
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chathura-Nimsara) 
+  [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/chathura.wanniarachchikankanamge) 
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/chathura_nimsara_karunarathna/) 
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:99wakcnk@gmail.com)  
+</div>
 
+---
 ⭐️ *“Passionate about building, teaching, and innovating with technology.”*
